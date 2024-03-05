@@ -1,14 +1,15 @@
 // 1 - Create a variable called `plantType` and assign it the value of a plant type (e.g., "Tomato", "Rose", "Lavender")
+var plantType = 'Tomatoe'
 
 
 // 2 - Create a second variable called `plantHeight` and assign it the value of the plant's height in inches (e.g., 12, 24, 36)
-
+var plantHeight = 18
 
 // 3 - Create a third variable called `plantLocation` and assign it the value of where the plant is located (e.g., "Backyard", "Balcony", "Indoor")
-
+var plantLocation = 'balcony'
 
 // 4 - Console log the value of each variable
-
+console.log (plantType)
 
 // 5 - Create a variable named `isOutdoor` and set it to a boolean value (true or false) indicating whether the plant is outdoors
 
